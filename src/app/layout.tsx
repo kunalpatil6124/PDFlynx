@@ -7,7 +7,7 @@ import { Analytics } from "@vercel/analytics/next";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "PDF Tools Web App",
+  title: "PDFora",
   description: "A comprehensive PDF tools web application to merge, split, compress, and edit PDFs.",
 };
 
