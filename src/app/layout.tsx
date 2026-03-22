@@ -24,7 +24,7 @@ export default function RootLayout({
           {children}
         </main>
         <footer className="footer py-6 text-center text-sm text-slate-500 border-t border-slate-200 mt-auto">
-          <p>&copy; {new Date().getFullYear()} PDF Tools App. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} PDFora. All rights reserved. Made By kunalpatil6124</p>
         </footer>
         <Analytics />
       </body>
